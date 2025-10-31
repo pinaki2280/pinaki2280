@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Shubhankar—a resilient and intellectually adventurous learner with an MTech in Computer Science and a deep passion for mathematics. I specialize in combinatorial reasoning, algebraic structures, and interdisciplinary problem-solving.
+
+🔍 Currently exploring eligibility pathways for MSc/PhD Mathematics, with a strong foundation in undergraduate math coursework and a strategic approach to academic documentation.
+
+🎯 My goal: to build an academic career that blends research, teaching, and institutional contribution.## Hi there 👋
 
 <!--
 **pinaki2280/pinaki2280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
